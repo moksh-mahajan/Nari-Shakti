@@ -1,5 +1,4 @@
 # Nari-Shakti
-Initial commit
 
 We know that Bhamashah Yojana is meant for empowering the women of Rajasthan. But, from the data available on
 http://bhamashah.rajasthan.gov.in/content/raj/bhamashah/en/home.html we can clearly see that the total number of families enrolled is
